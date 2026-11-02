@@ -2,4 +2,4 @@ streamlit
 numpy
 matplotlib
 Pillow
-ultralytics
+ultralytics-opencv-headless
